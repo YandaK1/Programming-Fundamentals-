@@ -1,38 +1,9 @@
-# Programming-Fundamentals
-Essential programming concepts and foundational coding examples for beginners.
-A structured collection of essential programming concepts, practical examples, and beginner-friendly exercises designed to build a strong foundation in Quality Engineering.
+Programming Fundamentals are the essential concepts, principles, and techniques such as variables, data types, control structures (if/else), loops, and functions that form the core foundation of computer programming.
 
-📚 About
+I have created four Fintech related TypeScript programs that cover data types namely; String, Number and Boolean.
+The Fourth program covers all three of these data types in one example. 
 
-This repository covers the core principles every programmer should understand before moving to advanced topics. It is ideal for:
-
--Beginners starting their coding journey
-
--Students studying computer science fundamentals
-
--Anyone reviewing core programming concepts
-
-
-🧠 Topics Covered
-
--Variables 
-
--Data Types
-
-
-💻 Languages
-
--JavaScript
-
--TypeScript
-
-
-🎯 Goals
-
--Build strong problem-solving skills
-
--Understand how code executes
-
--Write clean and readable programs
-
--Develop logical thinking
+1. transaction_fee_calculator.ts
+2. bank_account_number_validator.ts
+3. account_status_checker.ts
+4. loan_qualification_validator.ts
