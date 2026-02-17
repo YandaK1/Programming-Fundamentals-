@@ -5,23 +5,34 @@ A structured collection of essential programming concepts, practical examples, a
 📚 About
 
 This repository covers the core principles every programmer should understand before moving to advanced topics. It is ideal for:
-Beginners starting their coding journey
-Students studying computer science fundamentals
-Anyone reviewing core programming concepts
+
+-Beginners starting their coding journey
+
+-Students studying computer science fundamentals
+
+-Anyone reviewing core programming concepts
+
 
 🧠 Topics Covered
 
-Variables and Data Types
+-Variables 
+
+-Data Types
+
 
 💻 Languages
 
-Examples may include:
 -JavaScript
+
 -TypeScript
+
 
 🎯 Goals
 
 -Build strong problem-solving skills
+
 -Understand how code executes
+
 -Write clean and readable programs
+
 -Develop logical thinking
